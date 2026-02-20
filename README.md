@@ -1,1 +1,79 @@
-🌸 Iris Flower Classification Web App is an end-to-end Machine Learning project that predicts the species of an Iris flower using sepal and petal measurements. Built using the classic Iris flower dataset, the model classifies flowers into Setosa, Versicolor, and Virginica with high accuracy. The model was developed using Scikit-learn, serialized with Joblib, and deployed as an interactive web application using Streamlit. This project demonstrates the complete ML workflow — from data preprocessing and model training to deployment — making it a strong portfolio project showcasing practical Machine Learning and web app integration skills.
+🌸 Iris Flower Classification Web App
+
+An interactive Machine Learning web application that predicts the species of an Iris flower based on user-provided measurements.
+
+This project uses the classic Iris flower dataset to classify flowers into:
+
+🌼 Setosa
+
+🌺 Versicolor
+
+🌸 Virginica
+
+The model is trained using Scikit-learn and deployed as a web app using Streamlit.
+
+🚀 Live Demo
+    
+👉 https://irisflowerclassification-kfap2wfmmuctzwcimw3yjv.streamlit.app/
+
+📌 Project Highlights
+
+🔹 Supervised Machine Learning Classification
+
+🔹 Trained using Scikit-learn
+
+🔹 Model saved using Joblib
+
+🔹 Interactive UI built with Streamlit
+
+🔹 Ready for cloud deployment
+
+🧠 How It Works
+
+The model takes four input features:
+
+Sepal Length
+
+Sepal Width
+
+Petal Length
+
+Petal Width
+
+Based on these measurements, the trained model predicts the correct Iris species instantly.
+
+🛠️ Tech Stack
+
+Python
+
+NumPy
+
+Scikit-learn
+
+Streamlit
+
+Joblib
+
+📂 Project Structure
+iris-flower-classification/
+│
+├── iris_model.pkl
+├── app.py
+├── requirements.txt
+└── README.md
+
+🎯 Learning Outcomes
+
+Model training & evaluation
+
+Model serialization
+
+Building ML web apps
+
+Deploying ML models
+
+End-to-end ML workflow
+
+⭐ Why This Project?
+
+This project demonstrates how to take a Machine Learning model from training to real-world deployment — making it a great portfolio project for Data Science & Machine Learning beginners.
