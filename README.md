@@ -56,11 +56,14 @@ Joblib
 
 📂 Project Structure
 iris-flower-classification/
-│
-├── iris_model.pkl
-├── app.py
-├── requirements.txt
-└── README.md
+
+1) iris_model.pkl
+
+2) app.py
+   
+3) requirements.txt
+   
+4) README.md
 
 🎯 Learning Outcomes
 
